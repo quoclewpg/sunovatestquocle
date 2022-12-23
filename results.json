@@ -1,0 +1,1703 @@
+{
+    "testCompleted": true,
+    "class": "1",
+    "grade": null,
+    "classGeneralMax": 20,
+    "classPreText": {
+        "en": "To best prepare for your quiz, be sure to review the following resources:<ul><li><a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/\" target=\"_blank\">Driver's Handbook</a></li></ul>",
+        "fr": "Pour bien vous préparer à votre questionnaire, n’oubliez pas de consulter les ressources suivantes:<ul><li><a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/\" target=\"_blank\">Guide de l’automobiliste</a></li></ul>"
+    },
+    "classPostText": {
+        "en": "Above is a summary of the results of your quiz. Below, you’ll find additional links to help you further prepare for your knowledge test and find more information on how to book.",
+        "fr": "Vous pouvez voir ci-dessus un résumé des résultats de votre questionnaire. Vous trouverez ci-dessous d’autres liens qui vous aideront à vous préparer encore mieux à votre examen théorique ou à vous inscrire."
+    },
+    "classCategories": [
+        {
+            "catID": 0,
+            "label": {
+                "en": "General",
+                "fr": "General fr",
+                "ru": "General ru"
+            },
+            "maxQty": 20
+        },
+        {
+            "catID": 1,
+            "label": {
+                "en": "Signs",
+                "fr": "Signalisation"
+            },
+            "maxQty": 20
+        }
+    ],
+    "classCategoriesSelected": 0,
+    "classPostResourceSuggestions": [
+        {
+            "Key": "en",
+            "Value": [
+                {
+                    "title": "Driver’s Handbook",
+                    "url": "https://apps.mpi.mb.ca/comms/drivershandbook/"
+                },
+                {
+                    "title": "Get a passenger vehicle Class 5 licence",
+                    "url": "https://www.mpi.mb.ca/Pages/get-class-5-licence.aspx"
+                },
+                {
+                    "title": "Testing for your Class 5 licence",
+                    "url": "https://www.mpi.mb.ca/Pages/class-5-licence-testing.aspx"
+                }
+            ]
+        },
+        {
+            "Key": "fr",
+            "Value": [
+                {
+                    "title": "Guide de l’automobiliste",
+                    "url": "https://apps.mpi.mb.ca/comms/drivershandbook/fr/"
+                },
+                {
+                    "title": "Permis de la classe 5",
+                    "url": "https://www.mpi.mb.ca/Pages/get-class-5-licence-fr.aspx"
+                },
+                {
+                    "title": "Passer votre permis de classe 5",
+                    "url": "https://www.mpi.mb.ca/Pages/class-5-licence-testing-fr.aspx"
+                }
+            ]
+        }
+    ],
+    "questionsQty": "20",
+    "questions": [
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3810,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "What should you do if you notice that the driver in the vehicle ahead of you is driving with one hand while talking to a passenger?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/KUiFRR0AIWs\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Give the vehicle ahead extra room.",
+                            "id": "8182_en",
+                            "questionId": 3810
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/KUiFRR0AIWs\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Be aware that the driver in the vehicle ahead is creating a danger by being distracted.",
+                            "id": "8183_en",
+                            "questionId": 3810
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/KUiFRR0AIWs\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "You should avoid this bad habit.",
+                            "id": "8184_en",
+                            "questionId": 3810
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/KUiFRR0AIWs\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "All of the above.",
+                            "id": "8185_en",
+                            "questionId": 3810
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4570,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Que faire si vous remarquez que le conducteur du véhicule qui vous précède conduit d’une main tout en discutant avec un passager?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/KUiFRR0AIWs\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Lui donner plus d’espace.",
+                            "id": "7743_fr",
+                            "questionId": 4570
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/KUiFRR0AIWs\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Être conscient que sa distraction crée un danger.",
+                            "id": "7744_fr",
+                            "questionId": 4570
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/KUiFRR0AIWs\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Éviter cette mauvaise habitude.",
+                            "id": "7745_fr",
+                            "questionId": 4570
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/KUiFRR0AIWs\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Toutes ces réponses.",
+                            "id": "7746_fr",
+                            "questionId": 4570
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8185,
+            "questionCorrectID": "8185_en",
+            "questionAnswerCorrect": true,
+            "questionFeedback": "<a href=\"https://youtu.be/KUiFRR0AIWs\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3844,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "If you plan on making a right turn and your signals don't work, what is the proper hand signal?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/hand-signals.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Left arm positioned outside the window, straight out.",
+                            "id": "8317_en",
+                            "questionId": 3844
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/hand-signals.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Left arm positioned outside the left window, upward at a 90° angle.",
+                            "id": "8318_en",
+                            "questionId": 3844
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/hand-signals.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Left arm positioned downward outside, the window at a 90° angle.",
+                            "id": "8319_en",
+                            "questionId": 3844
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/hand-signals.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Right arm positioned out to the right.",
+                            "id": "8320_en",
+                            "questionId": 3844
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4604,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Vous prévoyez de tourner à droite, mais vos clignotants ne fonctionnent pas. Quel signal manuel devez-vous utiliser?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/hand-signals.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Le bras gauche à l’extérieur de la fenêtre, pointant directement vers la gauche.",
+                            "id": "7879_fr",
+                            "questionId": 4604
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/hand-signals.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Le bras gauche à l’extérieur de la fenêtre de gauche, plié vers le haut à un angle de 90°.",
+                            "id": "7880_fr",
+                            "questionId": 4604
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/hand-signals.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Le bras gauche à l’extérieur de la fenêtre, plié vers le bas à un angle de 90°.",
+                            "id": "7881_fr",
+                            "questionId": 4604
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/hand-signals.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Le bras droit à l’extérieur, pointant directement vers la droite.",
+                            "id": "7882_fr",
+                            "questionId": 4604
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8317,
+            "questionCorrectID": "8318_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/hand-signals.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3925,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "All motor vehicles must be equipped with a mirror, providing a clear rear view. Vehicles such as vans, buses, trucks, campers, and cars pulling trailers must have a:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/reguired-equipment.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Rearview mirror and an outside left mirror.",
+                            "id": "8638_en",
+                            "questionId": 3925
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/reguired-equipment.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Rearview mirror and an outside right mirror.",
+                            "id": "8639_en",
+                            "questionId": 3925
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/reguired-equipment.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Rearview mirror and outside mirrors on the right and left sides.",
+                            "id": "8640_en",
+                            "questionId": 3925
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/reguired-equipment.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Rearview mirror only.",
+                            "id": "8641_en",
+                            "questionId": 3925
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4685,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Tous les véhicules à moteur doivent être équipés d’un rétroviseur offrant une vue dégagée vers l’arrière. Quel équipement doit se trouver sur les véhicules comme les fourgonnettes, les autobus, les camions, les campeurs et les voitures tirant des remorques?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/reguired-equipment.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Un rétroviseur intérieur et un rétroviseur extérieur à gauche.",
+                            "id": "8203_fr",
+                            "questionId": 4685
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/reguired-equipment.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Un rétroviseur intérieur et un rétroviseur extérieur à droite.",
+                            "id": "8204_fr",
+                            "questionId": 4685
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/reguired-equipment.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Un rétroviseur intérieur et des rétroviseurs extérieurs à droite et à gauche.",
+                            "id": "8205_fr",
+                            "questionId": 4685
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/reguired-equipment.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Un rétroviseur intérieur seulement.",
+                            "id": "8206_fr",
+                            "questionId": 4685
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8641,
+            "questionCorrectID": "8640_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/reguired-equipment.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3888,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "You and another vehicle are approaching an intersection that has no traffic signs or signals. Which vehicle has the right of way?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/right-of-way.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "The vehicle on the left.",
+                            "id": "8490_en",
+                            "questionId": 3888
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/right-of-way.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "The vehicle on the right.",
+                            "id": "8491_en",
+                            "questionId": 3888
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/right-of-way.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "The vehicle with the greatest speed.",
+                            "id": "8492_en",
+                            "questionId": 3888
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/right-of-way.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "The vehicle that enters the intersection first.",
+                            "id": "8493_en",
+                            "questionId": 3888
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4648,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Vous et un autre véhicule vous approchez d’une intersection sans signalisation routière. Quel véhicule a la priorité?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/right-of-way.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Le véhicule à gauche.",
+                            "id": "8055_fr",
+                            "questionId": 4648
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/right-of-way.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Le véhicule à droite.",
+                            "id": "8056_fr",
+                            "questionId": 4648
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/right-of-way.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Le véhicule qui avance le plus vite.",
+                            "id": "8057_fr",
+                            "questionId": 4648
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/right-of-way.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Le véhicule s’engage dans l’intersection en premier.",
+                            "id": "8058_fr",
+                            "questionId": 4648
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8493,
+            "questionCorrectID": "8491_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/right-of-way.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3824,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "You are driving on a four-lane highway in moderate traffic. There is a slow moving vehicle is ahead in your lane. What do you do before changing lanes?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/lane-changing.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Signal your intentions.",
+                            "id": "8238_en",
+                            "questionId": 3824
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/lane-changing.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Make sure your blind spot is clear.",
+                            "id": "8239_en",
+                            "questionId": 3824
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/lane-changing.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Make sure that there is sufficient room in traffic to make the move.",
+                            "id": "8240_en",
+                            "questionId": 3824
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/lane-changing.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "All of the above.",
+                            "id": "8241_en",
+                            "questionId": 3824
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4584,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Vous conduisez sur une autoroute à quatre voies dans une circulation modérée. Un véhicule lent se trouve devant vous, dans votre voie. Que faites-vous avant de changer de voie?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/lane-changing.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Vous signalez votre intention.",
+                            "id": "7799_fr",
+                            "questionId": 4584
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/lane-changing.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Vous vérifiez que votre angle mort est dégagé.",
+                            "id": "7800_fr",
+                            "questionId": 4584
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/lane-changing.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Vous vérifiez qu’il y a suffisamment de place dans la circulation pour effectuer le déplacement.",
+                            "id": "7801_fr",
+                            "questionId": 4584
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/lane-changing.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Toutes ces réponses.",
+                            "id": "7802_fr",
+                            "questionId": 4584
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8241,
+            "questionCorrectID": "8241_en",
+            "questionAnswerCorrect": true,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/lane-changing.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3869,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "What should you do when you approach an intersection controlled by four-way stop signs?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/_uGaxLM61HQ\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Stop.",
+                            "id": "8415_en",
+                            "questionId": 3869
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/_uGaxLM61HQ\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Slow down, stopping only if necessary.",
+                            "id": "8416_en",
+                            "questionId": 3869
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/_uGaxLM61HQ\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Stop, wait your turn, and go when safe.",
+                            "id": "8417_en",
+                            "questionId": 3869
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/_uGaxLM61HQ\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Speed up and clear the intersection.",
+                            "id": "8418_en",
+                            "questionId": 3869
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4629,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Que devez-vous faire lorsque vous approchez d’une intersection contrôlée par des panneaux d’arrêt quatre sens?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/_uGaxLM61HQ\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Arrêter.",
+                            "id": "7979_fr",
+                            "questionId": 4629
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/_uGaxLM61HQ\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Ralentir et arrêter seulement si nécessaire.",
+                            "id": "7980_fr",
+                            "questionId": 4629
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/_uGaxLM61HQ\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Arrêter, attendre votre tour et repartir en toute sécurité.",
+                            "id": "7981_fr",
+                            "questionId": 4629
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/_uGaxLM61HQ\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Accélérer et traverser l’intersection.",
+                            "id": "7982_fr",
+                            "questionId": 4629
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8416,
+            "questionCorrectID": "8417_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://youtu.be/_uGaxLM61HQ\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3948,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "To brake in an emergency situation with a vehicle equipped with ABS (antilock) brakes, you should:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/PT5aLNS-0l8\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Pump the brake pedal.",
+                            "id": "8729_en",
+                            "questionId": 3948
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/PT5aLNS-0l8\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Fully apply on the brakes and keep the brake pedal depressed.",
+                            "id": "8730_en",
+                            "questionId": 3948
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/PT5aLNS-0l8\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Slam on the brakes and release the brakes when the pedal vibrates.",
+                            "id": "8731_en",
+                            "questionId": 3948
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/PT5aLNS-0l8\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Apply as little pressure as possible.",
+                            "id": "8732_en",
+                            "questionId": 3948
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4708,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Dans un véhicule équipé de freins antiblocage (ABS), comment faut-il freiner dans une situation d’urgence?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/PT5aLNS-0l8\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Comprimer les freins.",
+                            "id": "8295_fr",
+                            "questionId": 4708
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/PT5aLNS-0l8\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Serrer complètement les freins et maintenir la pédale de frein enfoncée.",
+                            "id": "8296_fr",
+                            "questionId": 4708
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/PT5aLNS-0l8\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Serrer brusquement les freins et les relâcher lorsque la pédale vibre.",
+                            "id": "8297_fr",
+                            "questionId": 4708
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/PT5aLNS-0l8\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Appliquer le moins de pression possible.",
+                            "id": "8298_fr",
+                            "questionId": 4708
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8732,
+            "questionCorrectID": "8730_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://youtu.be/PT5aLNS-0l8\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3817,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "When must seatbelts be worn?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/bBgdJSg2jtg\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "At all times when driving or riding in a vehicle, unless exempted by law.",
+                            "id": "8210_en",
+                            "questionId": 3817
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/bBgdJSg2jtg\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Only when driving at high speeds.",
+                            "id": "8211_en",
+                            "questionId": 3817
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/bBgdJSg2jtg\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Only in the city.",
+                            "id": "8212_en",
+                            "questionId": 3817
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/bBgdJSg2jtg\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Only if riding in the front seat.",
+                            "id": "8213_en",
+                            "questionId": 3817
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4577,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Quand faut-il porter la ceinture de sécurité?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/bBgdJSg2jtg\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "En tout temps lorsque vous conduisez ou êtes passager d’un véhicule, sauf si la loi vous accorde une exemption.",
+                            "id": "7771_fr",
+                            "questionId": 4577
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/bBgdJSg2jtg\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "À grande vitesse seulement.",
+                            "id": "7772_fr",
+                            "questionId": 4577
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/bBgdJSg2jtg\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "En ville seulement.",
+                            "id": "7773_fr",
+                            "questionId": 4577
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://youtu.be/bBgdJSg2jtg\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Sur le siège avant seulement.",
+                            "id": "7774_fr",
+                            "questionId": 4577
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8213,
+            "questionCorrectID": "8210_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://youtu.be/bBgdJSg2jtg\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3798,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "Manitoba's tough drinking and driving laws apply to?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/impaired-driving.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Motor vehicles.",
+                            "id": "8135_en",
+                            "questionId": 3798
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/impaired-driving.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Snowmobiles.",
+                            "id": "8136_en",
+                            "questionId": 3798
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/impaired-driving.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Dirt bikes and all-terrain vehicles.",
+                            "id": "8137_en",
+                            "questionId": 3798
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/impaired-driving.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "All of the above.",
+                            "id": "8138_en",
+                            "questionId": 3798
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4558,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "À qui s’appliquent les lois rigoureuses du Manitoba en matière de conduite avec facultés affaiblies?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/impaired-driving.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Aux conducteurs de véhicules à moteur.",
+                            "id": "7695_fr",
+                            "questionId": 4558
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/impaired-driving.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Aux motoneigistes.",
+                            "id": "7696_fr",
+                            "questionId": 4558
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/impaired-driving.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Aux conducteurs de motos tout-terrain et de véhicules tout-terrain.",
+                            "id": "7697_fr",
+                            "questionId": 4558
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/impaired-driving.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Toutes ces réponses.",
+                            "id": "7698_fr",
+                            "questionId": 4558
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8137,
+            "questionCorrectID": "8138_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/impaired-driving.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3861,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "What do two solid yellow lines dividing a highway mean?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/pavement-markings.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "No passing is allowed, but you may cross these lines to make a left turn into or from an alley, private road or a driveway.",
+                            "id": "8383_en",
+                            "questionId": 3861
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/pavement-markings.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "You may cross these lines to pass other vehicles only if there is no oncoming traffic.",
+                            "id": "8384_en",
+                            "questionId": 3861
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/pavement-markings.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "You must never cross these lines.",
+                            "id": "8385_en",
+                            "questionId": 3861
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/pavement-markings.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "You must not cross these lines within 30 metres of an intersection.",
+                            "id": "8386_en",
+                            "questionId": 3861
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4621,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Que signifient deux lignes jaunes continues qui divisent une autoroute?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/pavement-markings.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Le dépassement est interdit, mais vous pouvez traverser ces lignes pour tourner à gauche dans ou à partir d’une ruelle, d’une route privée ou d’une entrée.",
+                            "id": "7947_fr",
+                            "questionId": 4621
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/pavement-markings.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Vous pouvez traverser ces lignes pour dépasser d’autres véhicules seulement s’il n’y a pas de circulation en sens inverse.",
+                            "id": "7948_fr",
+                            "questionId": 4621
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/pavement-markings.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Vous ne devez jamais traverser ces lignes.",
+                            "id": "7949_fr",
+                            "questionId": 4621
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/pavement-markings.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Vous ne devez pas traverser ces lignes à moins de 30 mètres d’une intersection.",
+                            "id": "7950_fr",
+                            "questionId": 4621
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8386,
+            "questionCorrectID": "8383_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/pavement-markings.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3802,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "Driving a vehicle in Manitoba is:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/licence-suspension-conviction.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "A right.",
+                            "id": "8150_en",
+                            "questionId": 3802
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/licence-suspension-conviction.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "A privilege.",
+                            "id": "8151_en",
+                            "questionId": 3802
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/licence-suspension-conviction.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "A way of life.",
+                            "id": "8152_en",
+                            "questionId": 3802
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/licence-suspension-conviction.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "An entitlement.",
+                            "id": "8153_en",
+                            "questionId": 3802
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4562,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Qu’est-ce que la conduite automobile au Manitoba?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/licence-suspension-conviction.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Un droit.",
+                            "id": "7711_fr",
+                            "questionId": 4562
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/licence-suspension-conviction.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Un privilège.",
+                            "id": "7712_fr",
+                            "questionId": 4562
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/licence-suspension-conviction.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Un mode de vie.",
+                            "id": "7713_fr",
+                            "questionId": 4562
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/licence-suspension-conviction.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Un acquis.",
+                            "id": "7714_fr",
+                            "questionId": 4562
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8153,
+            "questionCorrectID": "8151_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/licence-suspension-conviction.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3900,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "A flashing red signal light means the same as a:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/traffic-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Amber light.",
+                            "id": "8538_en",
+                            "questionId": 3900
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/traffic-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Stop sign.",
+                            "id": "8539_en",
+                            "questionId": 3900
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/traffic-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Yield sign.",
+                            "id": "8540_en",
+                            "questionId": 3900
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/traffic-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Caution sign.",
+                            "id": "8541_en",
+                            "questionId": 3900
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4660,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Un clignotant rouge signifie la même chose que quel autre signal routier?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/traffic-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Feu jaune.",
+                            "id": "8103_fr",
+                            "questionId": 4660
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/traffic-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Arrêt.",
+                            "id": "8104_fr",
+                            "questionId": 4660
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/traffic-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Céder le passage.",
+                            "id": "8105_fr",
+                            "questionId": 4660
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/traffic-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Prudence.",
+                            "id": "8106_fr",
+                            "questionId": 4660
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8541,
+            "questionCorrectID": "8539_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/traffic-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3954,
+                    "imageUrl": "",
+                    "lang": "en",
+                    "questionText": "You are driving up a hill and are approaching a heavy truck from the rear. You should know:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/hills.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "That the truck may be travelling at a speed slower than the posted speed limit.",
+                            "id": "8753_en",
+                            "questionId": 3954
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/hills.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "That you may not be able to pass the truck safely.",
+                            "id": "8754_en",
+                            "questionId": 3954
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/hills.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "That you may not be legally allowed to pass the truck.",
+                            "id": "8755_en",
+                            "questionId": 3954
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/hills.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "All of the above.",
+                            "id": "8756_en",
+                            "questionId": 3954
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4714,
+                    "imageUrl": "",
+                    "lang": "fr",
+                    "questionText": "Vous montez une pente et vous vous approchez d’un camion lourd devant vous. Que devez-vous savoir?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/hills.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Le camion se déplace peut-être à une vitesse inférieure à la limite de vitesse indiquée.",
+                            "id": "8319_fr",
+                            "questionId": 4714
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/hills.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Vous ne pouvez peut-être pas dépasser le camion en toute sécurité.",
+                            "id": "8320_fr",
+                            "questionId": 4714
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/hills.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Vous n’avez peut-être pas le droit de dépasser le camion.",
+                            "id": "8321_fr",
+                            "questionId": 4714
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/hills.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Toutes ces réponses.",
+                            "id": "8322_fr",
+                            "questionId": 4714
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8756,
+            "questionCorrectID": "8756_en",
+            "questionAnswerCorrect": true,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/hills.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3751,
+                    "imageUrl": "/DriverQuiz/images/class5/image076.svg",
+                    "lang": "en",
+                    "questionText": "This sign means:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/construction-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Wet roads.",
+                            "id": "7947_en",
+                            "questionId": 3751
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/construction-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Slippery when wet.",
+                            "id": "7948_en",
+                            "questionId": 3751
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/construction-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Falling rocks.",
+                            "id": "7949_en",
+                            "questionId": 3751
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/construction-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Flying stones.",
+                            "id": "7950_en",
+                            "questionId": 3751
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4511,
+                    "imageUrl": "/DriverQuiz/images/class5/image076.svg",
+                    "lang": "fr",
+                    "questionText": "Que signifie ce panneau?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/construction-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Chaussée mouillée.",
+                            "id": "7507_fr",
+                            "questionId": 4511
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/construction-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Chaussée glissante lorsque mouillée.",
+                            "id": "7508_fr",
+                            "questionId": 4511
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/construction-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Chutes de pierres.",
+                            "id": "7509_fr",
+                            "questionId": 4511
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/construction-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Pierres volantes.",
+                            "id": "7510_fr",
+                            "questionId": 4511
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 7950,
+            "questionCorrectID": "7950_en",
+            "questionAnswerCorrect": true,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/construction-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3746,
+                    "imageUrl": "/DriverQuiz/images/class5/image065.svg",
+                    "lang": "en",
+                    "questionText": "This sign means:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/warning-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Leaving city limits.",
+                            "id": "7927_en",
+                            "questionId": 3746
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/warning-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Slippery when wet.",
+                            "id": "7928_en",
+                            "questionId": 3746
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/warning-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Pavement ends.",
+                            "id": "7929_en",
+                            "questionId": 3746
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/warning-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Municipal road begins.",
+                            "id": "7930_en",
+                            "questionId": 3746
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4506,
+                    "imageUrl": "/DriverQuiz/images/class5/image065.svg",
+                    "lang": "fr",
+                    "questionText": "Que signifie ce panneau?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/warning-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Sortie des limites de la ville.",
+                            "id": "7487_fr",
+                            "questionId": 4506
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/warning-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Chaussée glissante lorsque mouillée.",
+                            "id": "7488_fr",
+                            "questionId": 4506
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/warning-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Fin du revêtement.",
+                            "id": "7489_fr",
+                            "questionId": 4506
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/warning-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Début de la route municipale.",
+                            "id": "7490_fr",
+                            "questionId": 4506
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 7930,
+            "questionCorrectID": "7929_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/warning-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3719,
+                    "imageUrl": "/DriverQuiz/images/class5/image011.svg",
+                    "lang": "en",
+                    "questionText": "This sign means:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/railway.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Railway crossing.",
+                            "id": "7819_en",
+                            "questionId": 3719
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/railway.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Crossing ahead.",
+                            "id": "7820_en",
+                            "questionId": 3719
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/railway.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Guarded crossing ahead.",
+                            "id": "7821_en",
+                            "questionId": 3719
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/railway.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Cross roads ahead.",
+                            "id": "7822_en",
+                            "questionId": 3719
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4479,
+                    "imageUrl": "/DriverQuiz/images/class5/image011.svg",
+                    "lang": "fr",
+                    "questionText": "Que signifie ce panneau?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/railway.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Passage à niveau.",
+                            "id": "7379_fr",
+                            "questionId": 4479
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/railway.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Signal avancé d’un passage.",
+                            "id": "7380_fr",
+                            "questionId": 4479
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/railway.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Passage à niveau surveillé.",
+                            "id": "7381_fr",
+                            "questionId": 4479
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/railway.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Signal avancé de voies transversales.",
+                            "id": "7382_fr",
+                            "questionId": 4479
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 7822,
+            "questionCorrectID": "7819_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/railway.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3788,
+                    "imageUrl": "/DriverQuiz/images/class5/image152.svg",
+                    "lang": "en",
+                    "questionText": "This sign means:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/crosswalks.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Pedestrian crosswalk.",
+                            "id": "8095_en",
+                            "questionId": 3788
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/crosswalks.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "School crosswalk.",
+                            "id": "8096_en",
+                            "questionId": 3788
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/crosswalks.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Pedestrian corridor.",
+                            "id": "8097_en",
+                            "questionId": 3788
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/crosswalks.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Playground crosswalk.",
+                            "id": "8098_en",
+                            "questionId": 3788
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4548,
+                    "imageUrl": "/DriverQuiz/images/class5/image152.svg",
+                    "lang": "fr",
+                    "questionText": "Que signifie ce panneau?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/crosswalks.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Passage pour piétons.",
+                            "id": "7655_fr",
+                            "questionId": 4548
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/crosswalks.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Passage d’écoliers.",
+                            "id": "7656_fr",
+                            "questionId": 4548
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/crosswalks.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Corridor piétonnier.",
+                            "id": "7657_fr",
+                            "questionId": 4548
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/crosswalks.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Corridor de terrain de jeux.",
+                            "id": "7658_fr",
+                            "questionId": 4548
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8098,
+            "questionCorrectID": "8096_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/crosswalks.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3780,
+                    "imageUrl": "/DriverQuiz/images/class5/image136.svg",
+                    "lang": "en",
+                    "questionText": "This sign means:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Do not pass.",
+                            "id": "8063_en",
+                            "questionId": 3780
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "One-way traffic ahead.",
+                            "id": "8064_en",
+                            "questionId": 3780
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Two lane roadway.",
+                            "id": "8065_en",
+                            "questionId": 3780
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Single lane ahead.",
+                            "id": "8066_en",
+                            "questionId": 3780
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4540,
+                    "imageUrl": "/DriverQuiz/images/class5/image136.svg",
+                    "lang": "fr",
+                    "questionText": "Que signifie ce panneau?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Dépassement interdit.",
+                            "id": "7623_fr",
+                            "questionId": 4540
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Signal avancé de circulation à sens unique.",
+                            "id": "7624_fr",
+                            "questionId": 4540
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Route à deux voies.",
+                            "id": "7625_fr",
+                            "questionId": 4540
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Signal avancé de voie unique.",
+                            "id": "7626_fr",
+                            "questionId": 4540
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8066,
+            "questionCorrectID": "8063_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3775,
+                    "imageUrl": "/DriverQuiz/images/class5/image126.svg",
+                    "lang": "en",
+                    "questionText": "This sign means:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "No parking.",
+                            "id": "8043_en",
+                            "questionId": 3775
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Do not stop to wait.",
+                            "id": "8044_en",
+                            "questionId": 3775
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Parking allowed.",
+                            "id": "8045_en",
+                            "questionId": 3775
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "No stopping during rush hour.",
+                            "id": "8046_en",
+                            "questionId": 3775
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4535,
+                    "imageUrl": "/DriverQuiz/images/class5/image126.svg",
+                    "lang": "fr",
+                    "questionText": "Que signifie ce panneau?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Stationnement interdit.",
+                            "id": "7603_fr",
+                            "questionId": 4535
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Arrêt interdit; circuler.",
+                            "id": "7604_fr",
+                            "questionId": 4535
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Stationnement autorisé.",
+                            "id": "7605_fr",
+                            "questionId": 4535
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Arrêt interdit pendant les heures de pointe.",
+                            "id": "7606_fr",
+                            "questionId": 4535
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8046,
+            "questionCorrectID": "8044_en",
+            "questionAnswerCorrect": false,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        },
+        {
+            "translations": {
+                "en": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 3770,
+                    "imageUrl": "/DriverQuiz/images/class5/image116.svg",
+                    "lang": "en",
+                    "questionText": "This sign means:",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Slow traffic keep right.",
+                            "id": "8023_en",
+                            "questionId": 3770
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Entering a municipality.",
+                            "id": "8024_en",
+                            "questionId": 3770
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Prepare to change lanes.",
+                            "id": "8025_en",
+                            "questionId": 3770
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>",
+                            "answerText": "Keep right of this sign.",
+                            "id": "8026_en",
+                            "questionId": 3770
+                        }
+                    ]
+                },
+                "fr": {
+                    "category": [
+                        {
+                            "Key": 1,
+                            "Value": "Signs"
+                        }
+                    ],
+                    "classId": 1,
+                    "classTitle": "Class 5 (Passenger vehicle)",
+                    "id": 4530,
+                    "imageUrl": "/DriverQuiz/images/class5/image116.svg",
+                    "lang": "fr",
+                    "questionText": "Que signifie ce panneau?",
+                    "answers": [
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Véhicules lents, rester à droite.",
+                            "id": "7583_fr",
+                            "questionId": 4530
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Entrée dans une municipalité.",
+                            "id": "7584_fr",
+                            "questionId": 4530
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Se préparer à changer de voie.",
+                            "id": "7585_fr",
+                            "questionId": 4530
+                        },
+                        {
+                            "answerMessage": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/fr/regulatory-signs.html\" target=\"_blank\">Cliquez ici pour en savoir plus sur la bonne réponse</a>",
+                            "answerText": "Rester à droite de ce panneau.",
+                            "id": "7586_fr",
+                            "questionId": 4530
+                        }
+                    ]
+                }
+            },
+            "questionSelectedId": 8026,
+            "questionCorrectID": "8026_en",
+            "questionAnswerCorrect": true,
+            "questionFeedback": "<a href=\"https://apps.mpi.mb.ca/comms/drivershandbook/regulatory-signs.html\" target=\"_blank\">Click here to learn more about the correct answer.</a>"
+        }
+    ]
+}
